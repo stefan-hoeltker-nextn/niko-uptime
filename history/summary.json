@@ -168,19 +168,19 @@
     "url": "https://niko.neuenhauser.de/api/chat/q/health",
     "icon": "https://icons.duckduckgo.com/ip3/niko.neuenhauser.de.ico",
     "slug": "chat-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 101,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 134,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 137,
+    "timeDay": 134,
+    "timeWeek": 138,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 40
     }
   },
   {
