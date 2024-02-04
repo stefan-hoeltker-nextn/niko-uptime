@@ -1,7 +1,7 @@
 url: https://niko.neuenhauser.de/api/notification/q/health
-status: down
-code: 503
-responseTime: 162
-lastUpdated: 2024-02-04T12:19:49.635Z
+status: up
+code: 200
+responseTime: 207
+lastUpdated: 2024-02-04T12:41:33.434Z
 startTime: 2023-12-29T08:49:04.589Z
 generator: Upptime <https://github.com/upptime/upptime>
