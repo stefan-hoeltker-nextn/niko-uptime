@@ -58,19 +58,19 @@
     "url": "https://niko.neuenhauser.de/api/notification/q/health",
     "icon": "https://icons.duckduckgo.com/ip3/niko.neuenhauser.de.ico",
     "slug": "notification-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 192,
-    "timeWeek": 190,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 179,
+    "timeDay": 197,
+    "timeWeek": 192,
     "timeMonth": 174,
-    "timeYear": 178,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-02-04": 0
+      "2024-02-04": 22
     }
   },
   {
