@@ -1,7 +1,7 @@
 url: https://niko.neuenhauser.de/api/az/q/health
-status: down
-code: 503
-responseTime: 118
-lastUpdated: 2024-02-16T17:45:34.890Z
+status: up
+code: 200
+responseTime: 119
+lastUpdated: 2024-02-16T17:57:53.620Z
 startTime: 2023-12-29T08:49:05.601Z
 generator: Upptime <https://github.com/upptime/upptime>
