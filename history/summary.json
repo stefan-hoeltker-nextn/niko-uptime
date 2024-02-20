@@ -79,19 +79,19 @@
     "url": "https://niko.neuenhauser.de/api/ma/q/health",
     "icon": "https://icons.duckduckgo.com/ip3/niko.neuenhauser.de.ico",
     "slug": "mitarbeiter-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 122,
-    "timeDay": 132,
-    "timeWeek": 115,
-    "timeMonth": 118,
+    "timeDay": 143,
+    "timeWeek": 120,
+    "timeMonth": 120,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-02-20": 0
+      "2024-02-20": 19
     }
   },
   {
