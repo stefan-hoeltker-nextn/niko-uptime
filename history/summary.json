@@ -79,18 +79,20 @@
     "url": "https://niko.neuenhauser.de/api/ma/q/health",
     "icon": "https://icons.duckduckgo.com/ip3/niko.neuenhauser.de.ico",
     "slug": "mitarbeiter-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 98,
-    "timeWeek": 109,
-    "timeMonth": 117,
-    "timeYear": 121,
-    "dailyMinutesDown": {}
+    "time": 122,
+    "timeDay": 132,
+    "timeWeek": 115,
+    "timeMonth": 118,
+    "timeYear": 122,
+    "dailyMinutesDown": {
+      "2024-02-20": 0
+    }
   },
   {
     "name": "AZ API",
