@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 634,
-    "timeDay": 507,
-    "timeWeek": 576,
-    "timeMonth": 632,
+    "timeDay": 697,
+    "timeWeek": 603,
+    "timeMonth": 630,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2024-02-28": 335
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 124,
-    "timeDay": 97,
-    "timeWeek": 113,
-    "timeMonth": 124,
+    "timeDay": 167,
+    "timeWeek": 122,
+    "timeMonth": 125,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2024-02-28": 334
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 126,
-    "timeDay": 98,
-    "timeWeek": 113,
+    "time": 127,
+    "timeDay": 167,
+    "timeWeek": 123,
     "timeMonth": 126,
-    "timeYear": 126,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2024-02-28": 334
     }
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/niko.neuenhauser.de.ico",
     "slug": "notification-api",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "98.28%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 179,
-    "timeDay": 137,
-    "timeWeek": 162,
-    "timeMonth": 177,
+    "timeDay": 161,
+    "timeWeek": 167,
+    "timeMonth": 178,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2024-05-07": 25,
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 126,
-    "timeDay": 102,
-    "timeWeek": 115,
-    "timeMonth": 126,
+    "timeDay": 170,
+    "timeWeek": 125,
+    "timeMonth": 127,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2024-02-28": 333,
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 124,
-    "timeDay": 98,
-    "timeWeek": 113,
+    "time": 125,
+    "timeDay": 168,
+    "timeWeek": 122,
     "timeMonth": 125,
-    "timeYear": 124,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2024-02-28": 333
     }
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 125,
-    "timeDay": 98,
-    "timeWeek": 113,
-    "timeMonth": 126,
-    "timeYear": 125,
+    "time": 126,
+    "timeDay": 171,
+    "timeWeek": 123,
+    "timeMonth": 127,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2024-02-28": 332,
       "2024-01-02": 32
@@ -158,8 +158,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 125,
-    "timeDay": 98,
-    "timeWeek": 112,
+    "timeDay": 173,
+    "timeWeek": 122,
     "timeMonth": 126,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -178,9 +178,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 124,
-    "timeDay": 98,
-    "timeWeek": 112,
-    "timeMonth": 124,
+    "timeDay": 167,
+    "timeWeek": 121,
+    "timeMonth": 125,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2024-02-28": 331
@@ -198,8 +198,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 126,
-    "timeDay": 107,
-    "timeWeek": 115,
+    "timeDay": 167,
+    "timeWeek": 124,
     "timeMonth": 127,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -218,11 +218,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 124,
-    "timeDay": 103,
-    "timeWeek": 114,
+    "time": 125,
+    "timeDay": 170,
+    "timeWeek": 123,
     "timeMonth": 126,
-    "timeYear": 124,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2024-02-28": 330
     }
@@ -239,9 +239,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 125,
-    "timeDay": 98,
-    "timeWeek": 112,
-    "timeMonth": 128,
+    "timeDay": 167,
+    "timeWeek": 121,
+    "timeMonth": 129,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2024-02-28": 330
@@ -253,16 +253,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/niko.neuenhauser.de.ico",
     "slug": "controlling-portal-api",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 125,
-    "timeDay": 98,
-    "timeWeek": 112,
-    "timeMonth": 124,
-    "timeYear": 125,
+    "uptimeYear": "99.83%",
+    "time": 126,
+    "timeDay": 168,
+    "timeWeek": 122,
+    "timeMonth": 125,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2024-02-28": 329
     }
